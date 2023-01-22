@@ -26,5 +26,5 @@
 import * as module1 from "./module1.js";
 
 // console.log(module1);
-console.log(module1.employee.salar);
+console.log(module1.employee.salary);
 module1.Person.Test();
